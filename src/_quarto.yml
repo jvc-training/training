@@ -3,7 +3,7 @@ project:
   output-dir: "../docs"
   render:
     - "*.qmd"
-    - about/*.qmd
+    - team/*.qmd
   
 book:
   title: "Juniata Valley Council Training Committee"
@@ -19,13 +19,18 @@ book:
     
   chapters:
     - index.qmd # This is the file that contains the front matter, found in the root of the repository
-    # - part: about/about.qmd
-    #   chapters:
-    #     - about/history.qmd
-    #     - about/why.qmd
+    - part: about/about.qmd
+      chapters:
+        - about/team.qmd
+        - about/why.qmd
+      #- part: about/about.qmd
+         #chapters:
+         #- required-training/adult.qmd
+         #- required-training/youth.qmd
+    #
     # - part: ethics/ethics.qmd
     #   chapters: 
-    #     - ethics/data-collection.qmd
+    #     - youth/data-collection.qmd
     #     - ethics/data-reuse.qmd
     #     - ethics/data-sharing.qmd
     #     - ethics/guidelines.qmd
