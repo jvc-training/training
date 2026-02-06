@@ -4,13 +4,16 @@ There is required training for all of those in any kind of leadership position l
 
 ## Why do you ask?
 
-Because a trained leader can do their job easier # Position Specific Training {-}
-
+Because a trained leader can do their job easier 
 
 
 # Required Training {-}
 
 View [training requirements](https://www.scouting.org/wp-content/uploads/2025/10/Position-Trained-Requirements-Oct2025.pdf) for your specific position.
+
+::: {.callout-note}
+It is recommended to complete any my.scouting.org training on a **computer** and use **Google Chrome**. If you are still having problems, open the browser in incognito mode.
+:::
 
 ## Safeguarding Youth
 
