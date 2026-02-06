@@ -3,7 +3,7 @@ project:
   output-dir: "../docs"
   render:
     - "*.qmd"
-    - team/*.qmd
+    - about/*.qmd
   
 book:
   title: "Juniata Valley Council Training Committee"

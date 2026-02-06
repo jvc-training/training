@@ -4,17 +4,7 @@
     "href": "index.html",
     "title": "Juniata Valley Council Training Committee",
     "section": "",
-    "text": "Welcome\nWe are so glad that you found us! We are here to be a resource to the Juniata Valley Council Scouters. In these pages, you can find information on:\nFurther resources are available at the National Scouting America Training website.",
-    "crumbs": [
-      "Welcome"
-    ]
-  },
-  {
-    "objectID": "index.html#welcome",
-    "href": "index.html#welcome",
-    "title": "Juniata Valley Council Training Committee",
-    "section": "",
-    "text": "Why does training matter?\nWhat is Required Training?\nIn Person Training Offerings\nand more!",
+    "text": "Welcome\nWhat should we put here?",
     "crumbs": [
       "Welcome"
     ]
@@ -26,7 +16,7 @@
     "section": "",
     "text": "#Meet the Team!\nCommittee Chair Andrea Seisler\nCommittee Vice-Chair David Glicini",
     "crumbs": [
-      "about/about.qmd",
+      "about",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>team.html</span>"
     ]
   },
@@ -37,7 +27,7 @@
     "section": "",
     "text": "Every scout deserves a trained leader\nA trained leader makes it easier",
     "crumbs": [
-      "about/about.qmd",
+      "about",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Why Training?</span>"
     ]
   }
