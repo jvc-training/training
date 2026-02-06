@@ -88,7 +88,7 @@ book:
   #   - appendices/terms.qmd
   #   - appendices/participant_info.qmd
   #   - appendices/grants.qmd
-  repo-url: https://github.com/jvctraining/training
+  repo-url: https://github.com/jvc-training/training
   
   repo-actions: [edit, issue]
   repo-subdir: src
@@ -98,7 +98,7 @@ format:
     theme: cosmo
     number_sections: false
     css: include/css/style.css
-    csl: include/bib/apa.csl
+    #csl: include/bib/apa.csl
     citations-hover: true
     footnotes-hover: true
     toc: false
