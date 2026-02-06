@@ -1,10 +1,16 @@
 # Hazardous Weather {-}
 
 What: Hazardous Weather Training
-When: Every 2 years
+
+When: Every 2 years  
+
 Who: required training for some positions
-Where: [Click here to take Hazardous Weather](https://training.scouting.org/courses/SCO_800) 
-Alternatively navigate to training by:
+
+Where: [Click here to take Hazardous
+Weather](https://training.scouting.org/courses/SCO_800)   
+
+Alternatively navigate to training by:  
+
 - Log in to: https://my.scouting.org/
 - Click on My Training
 - Click on ScoutsBSA
