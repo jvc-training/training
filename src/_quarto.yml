@@ -14,7 +14,7 @@ book:
   sidebar:
     search: true
     style: floating
-    collapse-level: 1
+    collapse-level: 2
     border: true
     
   chapters:
