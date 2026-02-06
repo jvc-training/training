@@ -6,7 +6,7 @@ project:
 #    - about/*.qmd
   
 book:
-  title: "JVC Council Training Committee"
+  title: "Juniata Valley Council Training Committee"
 #  cover-image: include/img/databrary-nav-sm.jpg
 # subtitle: "Share data & materials: Discover more, faster."
   author: ["Andrea Seisler"]
