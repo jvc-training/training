@@ -22,21 +22,21 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "1  About the Team",
+    "title": "About the Team",
     "section": "",
-    "text": "1.1 Meet the Team\nCommittee Chair Andrea Seisler\nCommittee Vice-Chair David Glicini",
+    "text": "Meet the Team\nCommittee Chair Andrea Seisler\nCommittee Vice-Chair David Glicini",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>About the Team</span>"
+      "About the Team"
     ]
   },
   {
     "objectID": "about.html#join-the-team",
     "href": "about.html#join-the-team",
-    "title": "1  About the Team",
-    "section": "1.2 Join the Team",
-    "text": "1.2 Join the Team\nDo you like to work with other adults? Join the team! Training others is fun",
+    "title": "About the Team",
+    "section": "Join the Team",
+    "text": "Join the Team\nDo you like to work with other adults? Join the team! Training others is fun",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>About the Team</span>"
+      "About the Team"
     ]
   },
   {
@@ -44,20 +44,59 @@
     "href": "requirements/requirements.html",
     "title": "Training, Is it for me?",
     "section": "",
-    "text": "Why do you ask?\nThere is required training for all of those in any kind of leadership position like Council President, Cubmasters/Scoutmasters, Merit Badge Counselors, Chartering Organization Representatives, Youth leaders of National Youth Leadership Prgram, and more!\nBecause a trained leader can do their job easier",
+    "text": "Why do you ask?\nThere is required training for all of those in any kind of leadership position like Council President, Cubmasters/Scoutmasters, Merit Badge Counselors, Chartering Organization Representatives, Youth leaders of National Youth Leadership Prgram, and more!\nBecause a trained leader can do their job easier # Position Specific Training {-}",
     "crumbs": [
       "Training, Is it for me?"
     ]
   },
   {
-    "objectID": "requirements/position.html",
-    "href": "requirements/position.html",
-    "title": "Position Specific Training",
-    "section": "",
-    "text": "What position training?\nView training requirements for your specific position.",
+    "objectID": "requirements/requirements.html#safeguarding-youth",
+    "href": "requirements/requirements.html#safeguarding-youth",
+    "title": "Training, Is it for me?",
+    "section": "Safeguarding Youth",
+    "text": "Safeguarding Youth",
     "crumbs": [
-      "Training, Is it for me?",
-      "Position Specific Training"
+      "Training, Is it for me?"
+    ]
+  },
+  {
+    "objectID": "requirements/requirements.html#hazardous-weather",
+    "href": "requirements/requirements.html#hazardous-weather",
+    "title": "Training, Is it for me?",
+    "section": "Hazardous Weather",
+    "text": "Hazardous Weather",
+    "crumbs": [
+      "Training, Is it for me?"
+    ]
+  },
+  {
+    "objectID": "requirements/requirements.html#ilstcs",
+    "href": "requirements/requirements.html#ilstcs",
+    "title": "Training, Is it for me?",
+    "section": "ILST/C/S",
+    "text": "ILST/C/S",
+    "crumbs": [
+      "Training, Is it for me?"
+    ]
+  },
+  {
+    "objectID": "requirements/requirements.html#national-youth-leadership-training",
+    "href": "requirements/requirements.html#national-youth-leadership-training",
+    "title": "Training, Is it for me?",
+    "section": "National Youth Leadership Training",
+    "text": "National Youth Leadership Training",
+    "crumbs": [
+      "Training, Is it for me?"
+    ]
+  },
+  {
+    "objectID": "requirements/requirements.html#wood-badge",
+    "href": "requirements/requirements.html#wood-badge",
+    "title": "Training, Is it for me?",
+    "section": "Wood Badge",
+    "text": "Wood Badge",
+    "crumbs": [
+      "Training, Is it for me?"
     ]
   }
 ]
