@@ -4,7 +4,17 @@
     "href": "index.html",
     "title": "Juniata Valley Council Training Committee",
     "section": "",
-    "text": "Welcome\nWhat should we put here?",
+    "text": "Welcome\nWe are so glad that you found us! We are here to be a training resource to the Juniata Valley Council Scouters. In these pages, you can find information on:\nFurther resources are available at the National Scouting America Training website.",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Juniata Valley Council Training Committee",
+    "section": "",
+    "text": "Why does training matter?\nWhat is Required Training?\nIn Person Training Offerings\nand more!",
     "crumbs": [
       "Welcome"
     ]
@@ -12,33 +22,43 @@
   {
     "objectID": "about/about.html",
     "href": "about/about.html",
-    "title": "About",
+    "title": "Meet the Team",
     "section": "",
-    "text": "We are so glad that you found us! We are here to be a resource to the Juniata Valley Council Scouters. In these pages, you can find information on:\n\nWhy does training matter?\nWhat is Required Training?\nIn Person Training Offerings\nand more!\n\nFurther resources are available at the National Scouting America Training website.",
+    "text": "Committee Chair Andrea Seisler\nCommittee Vice-Chair David Glicini\n\nJoin the Team\nDo you like to work with other adults? Join the team! Training others is fun",
     "crumbs": [
-      "About"
-    ]
-  },
-  {
-    "objectID": "about/team.html",
-    "href": "about/team.html",
-    "title": "Juniata Valley Council Training Committee",
-    "section": "",
-    "text": "#Meet the Team!\nCommittee Chair Andrea Seisler\nCommittee Vice-Chair David Glicini",
-    "crumbs": [
-      "About",
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>team.html</span>"
+      "Meet the Team"
     ]
   },
   {
     "objectID": "about/why.html",
     "href": "about/why.html",
-    "title": "2  Why Training?",
+    "title": "1  Why Training?",
     "section": "",
     "text": "Every scout deserves a trained leader\nA trained leader makes it easier",
     "crumbs": [
-      "About",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Why Training?</span>"
+      "Meet the Team",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Why Training?</span>"
+    ]
+  },
+  {
+    "objectID": "requirements/requirements.html",
+    "href": "requirements/requirements.html",
+    "title": "Juniata Valley Council Training Committee",
+    "section": "",
+    "text": "There is required training for all of those in any kind of leadership position like Council President, Cubmasters/Scoutmasters, Merit Badge Counselors, Chartering Organization Representatives, Youth leaders of National Youth Leadership Prgram, and more!\nWhy do you ask?\nBecause a trained leader can do their job easier",
+    "crumbs": [
+      "requirements.html"
+    ]
+  },
+  {
+    "objectID": "requirements/position.html",
+    "href": "requirements/position.html",
+    "title": "2  Position Training",
+    "section": "",
+    "text": "2.0.1 What is position training?\nView training requirements for your specific position.",
+    "crumbs": [
+      "requirements.html",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Position Training</span>"
     ]
   }
 ]

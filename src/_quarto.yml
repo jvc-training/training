@@ -21,12 +21,10 @@ book:
     - index.qmd # This is the file that contains the front matter, found in the root of the repository
     - part: about/about.qmd
       chapters:
-        - about/team.qmd
         - about/why.qmd
-      #- part: about/about.qmd
-         #chapters:
-         #- required-training/adult.qmd
-         #- required-training/youth.qmd
+    - part: requirements/requirements.qmd
+      chapters:
+        - requirements/position.qmd
     #
     # - part: ethics/ethics.qmd
     #   chapters: 
