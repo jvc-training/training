@@ -3,7 +3,6 @@ project:
   output-dir: "../docs"
   render:
     - "*.qmd"
-    - about/*.qmd
     - requirements/*.qmd
   
 book:
@@ -20,8 +19,7 @@ book:
     
   chapters:
     - index.qmd # This is the file that contains the front matter, found in the root of the repository
-    - about/about.qmd
-    - part: about/why.qmd
+    - about.qmd
     - part: requirements/requirements.qmd
       chapters:
         - requirements/position.qmd

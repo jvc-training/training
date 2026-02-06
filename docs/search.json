@@ -20,8 +20,8 @@
     ]
   },
   {
-    "objectID": "about/about.html",
-    "href": "about/about.html",
+    "objectID": "about.html",
+    "href": "about.html",
     "title": "Who are we?",
     "section": "",
     "text": "Meet the Team\nCommittee Chair Andrea Seisler\nCommittee Vice-Chair David Glicini",
@@ -30,13 +30,13 @@
     ]
   },
   {
-    "objectID": "about/why.html",
-    "href": "about/why.html",
-    "title": "Why Training?",
-    "section": "",
-    "text": "Every scout deserves a trained leader\nA trained leader makes it easier",
+    "objectID": "about.html#join-the-team",
+    "href": "about.html#join-the-team",
+    "title": "Who are we?",
+    "section": "Join the Team",
+    "text": "Join the Team\nDo you like to work with other adults? Join the team! Training others is fun",
     "crumbs": [
-      "Why Training?"
+      "Who are we?"
     ]
   },
   {
@@ -58,16 +58,6 @@
     "crumbs": [
       "Position Specific",
       "Position Training"
-    ]
-  },
-  {
-    "objectID": "about/about.html#join-the-team",
-    "href": "about/about.html#join-the-team",
-    "title": "Who are we?",
-    "section": "Join the Team",
-    "text": "Join the Team\nDo you like to work with other adults? Join the team! Training others is fun",
-    "crumbs": [
-      "Who are we?"
     ]
   }
 ]
