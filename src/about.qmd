@@ -1,4 +1,6 @@
-# Meet the Team
+# Who are we? {-}
+
+## Meet the Team
 
 Committee Chair
 Andrea Seisler
@@ -6,7 +8,7 @@ Andrea Seisler
 Committee Vice-Chair
 David Glicini
 
-# Join the Team
+## Join the Team
 
 Do you like to work with other adults? Join the team! Training others is fun 
 

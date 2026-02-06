@@ -22,11 +22,11 @@
   {
     "objectID": "about/about.html",
     "href": "about/about.html",
-    "title": "Meet the Team",
+    "title": "Who are we?",
     "section": "",
-    "text": "Committee Chair Andrea Seisler\nCommittee Vice-Chair David Glicini\n\nJoin the Team\nDo you like to work with other adults? Join the team! Training others is fun",
+    "text": "Meet the Team\nCommittee Chair Andrea Seisler\nCommittee Vice-Chair David Glicini",
     "crumbs": [
-      "Meet the Team"
+      "Who are we?"
     ]
   },
   {
@@ -58,6 +58,16 @@
     "crumbs": [
       "Position Specific",
       "Position Training"
+    ]
+  },
+  {
+    "objectID": "about/about.html#join-the-team",
+    "href": "about/about.html#join-the-team",
+    "title": "Who are we?",
+    "section": "Join the Team",
+    "text": "Join the Team\nDo you like to work with other adults? Join the team! Training others is fun",
+    "crumbs": [
+      "Who are we?"
     ]
   }
 ]
