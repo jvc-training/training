@@ -1,0 +1,111 @@
+project:
+  type: book
+  output-dir: "../docs"
+  render:
+    - "*.qmd"
+    - about/*.qmd
+  
+book:
+  title: "JVC Training"
+#  cover-image: include/img/databrary-nav-sm.jpg
+# subtitle: "Share data & materials: Discover more, faster."
+  author: ["Andrea Seisler"]
+  date: last-modified
+  sidebar:
+    search: true
+    style: floating
+    collapse-level: 1
+    border: true
+    
+  chapters:
+    - index.qmd # This is the file that contains the front matter, found in the root of the repository
+    # - part: about/about.qmd
+    #   chapters:
+    #     - about/history.qmd
+    #     - about/why.qmd
+    # - part: ethics/ethics.qmd
+    #   chapters: 
+    #     - ethics/data-collection.qmd
+    #     - ethics/data-reuse.qmd
+    #     - ethics/data-sharing.qmd
+    #     - ethics/guidelines.qmd
+    # - part: authorizing-institutions/authorizing-institutions.qmd
+    #   chapters:
+    #     - authorizing-institutions/specifics.qmd
+    #     - authorizing-institutions/partnering-with-databrary.qmd
+    #     - authorizing-institutions/granting-authorization.qmd
+    # - part: getting-authorized/start.qmd
+    #   chapters:
+    #     # - getting-authorized/institutions.qmd
+    #     - getting-authorized/roles.qmd
+    #     - getting-authorized/researchers.qmd
+    #     - getting-authorized/students.qmd
+    # - part: managing-my-profile/start.qmd
+    #   chapters: 
+    #     - managing-my-profile/managing-my-sponsors.qmd
+    # - part: project-guidelines/start.qmd
+    #   chapters: 
+    #     - project-guidelines/new-project.qmd
+    #     - project-guidelines/ongoing-project.qmd
+    #     - project-guidelines/completed-project.qmd
+    # - part: contributing-data/start.qmd
+    #   chapters:
+    #    - contributing-data/create-a-volume.qmd
+    #    - contributing-data/edit-a-volume.qmd
+    # - part: utilizing-data/start.qmd
+    #   chapters: 
+    # #    - utilizing-data/using-data.qmd
+    #     - utilizing-data/downloading-data.qmd
+    #     - utilizing-data/reusing-data.qmd
+    #- part: "Admin"
+    #  chapters:
+    #   - admin/flowcharts.qmd 
+    #   - admin/grant-auth.qmd 
+    #   - admin/security.qmd 
+    # - part: how-to-use-volumes/start.qmd
+    #  chapters:
+    #   - how-to-use-volumes/create-a-volume.qmd
+    #   - how-to-use-volumes/edit-a-volume.qmd
+    # - part: how-to-use-files/start.qmd
+    #  chapters:
+    #   - how-to-use-files/create-a-file.qmd
+    # - part: how-to-use-datasets/start.qmd
+    #  chapters: 
+    #    - how-to-use-datasets/curate-data.qmd
+    #- faq.qmd
+    #- glossary.qmd
+       
+
+    
+  # appendices:
+  #   - appendices/access_agreement.qmd
+  #   - appendices/sharing-release-participants.qmd
+  #   - appendices/sharing-release-staff.qmd
+  #   - appendices/sharing-release-script.qmd
+  #   - appendices/post-visit-release-email.qmd
+  #   - appendices/irb-application-template.qmd
+  #   - appendices/privacy_policy.qmd
+  #   - appendices/terms.qmd
+  #   - appendices/participant_info.qmd
+  #   - appendices/grants.qmd
+  repo-url: https://github.com/jvctraining/training
+  
+  repo-actions: [edit, issue]
+  repo-subdir: src
+  
+format:
+  html:
+    theme: cosmo
+    number_sections: false
+    css: include/css/style.css
+    csl: include/bib/apa.csl
+    citations-hover: true
+    footnotes-hover: true
+    toc: false
+    toc-depth: 3
+
+  # epub:
+  #   cover-image: img/databrary-nav-sm.jpg
+
+#bibliography: [include/bib/packages.bib, include/bib/references.bib]
+#bibliography-style: apa
