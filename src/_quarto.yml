@@ -3,10 +3,10 @@ project:
   output-dir: "../docs"
   render:
     - "*.qmd"
-    - about/*.qmd
+#    - about/*.qmd
   
 book:
-  title: "JVC Training"
+  title: "JVC Council Training Committee"
 #  cover-image: include/img/databrary-nav-sm.jpg
 # subtitle: "Share data & materials: Discover more, faster."
   author: ["Andrea Seisler"]
