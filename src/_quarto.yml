@@ -24,6 +24,10 @@ book:
       chapters:
         - requirements/haz-weather.qmd
         - requirements/syt.qmd
+    - part: training-express/training-express.qmd
+      chapters:
+        - training-express/links-to-events.qmd
+        - training-express/archive.qmd
     #
     # - part: ethics/ethics.qmd
     #   chapters: 

@@ -14,8 +14,8 @@ View [training requirements](https://www.scouting.org/wp-content/uploads/2025/10
 ::: {.callout-note}
 If you are having problems completing your training try the following:
 - be sure you have a strong internet connection
-- switch your device to a **computer** and use **Google Chrome**.
-- change to incognito mode.
+- switch your device to a **computer** and use **Google Chrome** or **MS Edge**
+- Ensure that cookies JavaScript and pop-ups are all enabled for the enirety of my.scouting.org.
 :::
 
 ## Safeguarding Youth
