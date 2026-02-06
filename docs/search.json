@@ -22,31 +22,31 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Who are we?",
+    "title": "1  About the Team",
     "section": "",
-    "text": "Meet the Team\nCommittee Chair Andrea Seisler\nCommittee Vice-Chair David Glicini",
+    "text": "1.1 Meet the Team\nCommittee Chair Andrea Seisler\nCommittee Vice-Chair David Glicini",
     "crumbs": [
-      "Who are we?"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>About the Team</span>"
     ]
   },
   {
     "objectID": "about.html#join-the-team",
     "href": "about.html#join-the-team",
-    "title": "Who are we?",
-    "section": "Join the Team",
-    "text": "Join the Team\nDo you like to work with other adults? Join the team! Training others is fun",
+    "title": "1  About the Team",
+    "section": "1.2 Join the Team",
+    "text": "1.2 Join the Team\nDo you like to work with other adults? Join the team! Training others is fun",
     "crumbs": [
-      "Who are we?"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>About the Team</span>"
     ]
   },
   {
     "objectID": "requirements/requirements.html",
     "href": "requirements/requirements.html",
-    "title": "Position Specific",
+    "title": "Training, Is it for me?",
     "section": "",
-    "text": "There is required training for all of those in any kind of leadership position like Council President, Cubmasters/Scoutmasters, Merit Badge Counselors, Chartering Organization Representatives, Youth leaders of National Youth Leadership Prgram, and more!\nWhy do you ask?\nBecause a trained leader can do their job easier",
+    "text": "Why do you ask?\nThere is required training for all of those in any kind of leadership position like Council President, Cubmasters/Scoutmasters, Merit Badge Counselors, Chartering Organization Representatives, Youth leaders of National Youth Leadership Prgram, and more!\nBecause a trained leader can do their job easier",
     "crumbs": [
-      "Position Specific"
+      "Training, Is it for me?"
     ]
   },
   {
@@ -56,7 +56,7 @@
     "section": "",
     "text": "What is position training?\nView training requirements for your specific position.",
     "crumbs": [
-      "Position Specific",
+      "Training, Is it for me?",
       "Position Training"
     ]
   }
