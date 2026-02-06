@@ -4,6 +4,7 @@ project:
   render:
     - "*.qmd"
     - about/*.qmd
+    - requirements/*.qmd
   
 book:
   title: "Juniata Valley Council Training Committee"
