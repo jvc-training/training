@@ -32,33 +32,32 @@
   {
     "objectID": "about/why.html",
     "href": "about/why.html",
-    "title": "1  Why Training?",
+    "title": "Why Training?",
     "section": "",
     "text": "Every scout deserves a trained leader\nA trained leader makes it easier",
     "crumbs": [
-      "Meet the Team",
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Why Training?</span>"
+      "Why Training?"
     ]
   },
   {
     "objectID": "requirements/requirements.html",
     "href": "requirements/requirements.html",
-    "title": "Juniata Valley Council Training Committee",
+    "title": "Why Training?",
     "section": "",
     "text": "There is required training for all of those in any kind of leadership position like Council President, Cubmasters/Scoutmasters, Merit Badge Counselors, Chartering Organization Representatives, Youth leaders of National Youth Leadership Prgram, and more!\nWhy do you ask?\nBecause a trained leader can do their job easier",
     "crumbs": [
-      "requirements.html"
+      "Why Training?"
     ]
   },
   {
     "objectID": "requirements/position.html",
     "href": "requirements/position.html",
-    "title": "2  Position Training",
+    "title": "1  Position Training",
     "section": "",
-    "text": "2.0.1 What is position training?\nView training requirements for your specific position.",
+    "text": "1.0.1 What is position training?\nView training requirements for your specific position.",
     "crumbs": [
-      "requirements.html",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Position Training</span>"
+      "Why Training?",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Position Training</span>"
     ]
   }
 ]
