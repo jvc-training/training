@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Juniata Valley Council Training Committee",
     "section": "",
-    "text": "Welcome\nWe are so glad that you found us! We are here to be a training resource to the Juniata Valley Council Scouters. In these pages, you can find information on:\nFurther resources are available at the National Scouting America Training website.",
+    "text": "Welcome\nWe are so glad that you found us! We are here to be a training resource to the Juniata Valley Council Scouters. In these pages, you can find information on:\nFurther resources are available at the National Scouting America Training website.\nThe training newsletter will be sent to all registered scouters. Please add juniatavalleycouncil@247scouting.com to your safe senders list so you can receive this and other upcoming events in the Juniata Valley Council.",
     "crumbs": [
       "Welcome"
     ]
@@ -141,6 +141,28 @@
     "crumbs": [
       "Current JVC Training Express",
       "Links to all items in the Training Newsletter"
+    ]
+  },
+  {
+    "objectID": "training-express/archive.html",
+    "href": "training-express/archive.html",
+    "title": "Archived JVC Training Express",
+    "section": "",
+    "text": "November 2025",
+    "crumbs": [
+      "Current JVC Training Express",
+      "Archived JVC Training Express"
+    ]
+  },
+  {
+    "objectID": "training-express/archive.html#march-2025",
+    "href": "training-express/archive.html#march-2025",
+    "title": "Archived JVC Training Express",
+    "section": "March 2025",
+    "text": "March 2025",
+    "crumbs": [
+      "Current JVC Training Express",
+      "Archived JVC Training Express"
     ]
   }
 ]

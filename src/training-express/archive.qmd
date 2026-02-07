@@ -1,3 +1,13 @@
 # Archived JVC Training Express {-}
 
-![](../include/img/202511-save-the-date.png)
+## November 2025 
+![](../include/img/202511-save-the-date.png){width=30%}
+
+## March 2025
+
+::: {layout-ncol=2}
+![](../include/img/202503-jvc-training-express-pg1.png)
+
+![](../include/img/202503-jvc-training-express-pg2.png)
+:::
+

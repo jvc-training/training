@@ -1,7 +1,8 @@
 # Current JVC Training Express {-}
 
-![](../include/img/202601-training-newsletter-pg1.jpg)
 
+::: {layout-ncol=2}
+![](../include/img/202601-training-newsletter-pg1.png)
 
-
-![](../include/img/202601-training-newsletter-pg2.jpg)
+![](../include/img/202601-training-newsletter-pg2.png)
+:::
