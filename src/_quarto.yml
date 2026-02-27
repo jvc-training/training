@@ -20,6 +20,12 @@ book:
   chapters:
     - index.qmd # This is the file that contains the front matter, found in the root of the repository
     - about.qmd
+    - part: byposition/byposition.qmd
+      chapters:
+        - byposition/charteringorgrep.qmd
+        - byposition/cubsreqsbyposition.qmd
+        - byposition/troopreqsbyposition.qmd
+        - byposition/venturereqsbyposition.qmd
     - part: requirements/requirements.qmd
       chapters:
         - requirements/haz-weather.qmd
