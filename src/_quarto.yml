@@ -22,7 +22,7 @@ book:
     - about.qmd
     - part: byposition/byposition.qmd
       chapters:
-        - byposition/charteringorgrep.qmd
+        - byposition/charteredorgrep.qmd
         - byposition/cubsreqsbyposition.qmd
         - byposition/troopreqsbyposition.qmd
         - byposition/venturereqsbyposition.qmd
