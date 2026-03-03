@@ -26,6 +26,7 @@ book:
         - byposition/cubsreqsbyposition.qmd
         - byposition/troopreqsbyposition.qmd
         - byposition/venturereqsbyposition.qmd
+        - byposition/meritbadgecounselor.qmd
     - part: requirements/requirements.qmd
       chapters:
         - requirements/haz-weather.qmd
