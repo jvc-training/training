@@ -1,9 +1,17 @@
 # Chartered Organization Representative {-}
 
-## What does this mean? {-}
+## What is it? {-}
+:::: {.columns}
 
+::: {.column width="25%"}
+![](../include/img/cor-patch.jpeg){fig-align="left" width=60%}
+:::
+
+::: {.column width="75%"}
 The Chartered Organization Representative (COR) is the vital link between a Scouting unit and its sponsoring organization (e.g., church, school, or community group). 
+:::
 
+::::
 ## What do I do? {-}
 
 Key responsibilities of the COR include:
@@ -14,15 +22,15 @@ Key responsibilities of the COR include:
 - **Representation:** Serving as a voting member of the local council and district committee.
 - **Unit Success:** Ensuring the unit maintains high-quality programs, active membership recruitment, and follows Scouting America policies.
 
-## Do I need to be registered? {-}
+## How do I get involved? {-}
 
-Yes! 
+### Register 
 
-## Do I need to be trained? {-}
+Talk with the Scoutmaster/Cubmaster or Committee Chair of the Scouting Unit at your sponsoring organization, or reach out to your local council office.
 
-Yes!
+### Get Trained {-}
 
-The online training module take ~45 minutes. 
+There is a single online training module that takes ~45 minutes that gives you the information needed to work well with the scouting unit.
 
 [Click HERE to take Chartered Organization Representative Training](https://training.scouting.org/learning-plans/1016)
 

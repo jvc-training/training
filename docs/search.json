@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Juniata Valley Council Training Committee",
     "section": "",
-    "text": "Welcome\nWe are so glad that you found us! We are here to be a training resource to the Juniata Valley Council Scouters. In these pages, you can find information on:\nFurther resources are available at the National Scouting America Training website.\nThe training newsletter will be sent to all registered scouters. Please add juniatavalleycouncil@247scouting.com to your safe senders list so you can receive this and other upcoming events in the Juniata Valley Council.",
+    "text": "Welcome\nWe are so glad that you found us! We are here to be a training resource to the Juniata Valley Council Scouters. In these pages, you can find information on:\nFurther resources are available at the National Scouting America Training website.\nThe JVC Informer is a monthly email which includes upcoming events, including the biannual training newsletter that is sent to all registered scouters in Junitata Valley Council. Please add juniatavalleycouncil@247scouting.com to your safe senders list so you can receive this and other upcoming event notifications in the Juniata Valley Council.",
     "crumbs": [
       "Welcome"
     ]
@@ -54,7 +54,18 @@
     "href": "byposition/charteredorgrep.html",
     "title": "Chartered Organization Representative",
     "section": "",
-    "text": "What does this mean?\nThe Chartered Organization Representative (COR) is the vital link between a Scouting unit and its sponsoring organization (e.g., church, school, or community group).",
+    "text": "What is it?",
+    "crumbs": [
+      "Position Specific Training",
+      "Chartered Organization Representative"
+    ]
+  },
+  {
+    "objectID": "byposition/charteredorgrep.html#what-is-it",
+    "href": "byposition/charteredorgrep.html#what-is-it",
+    "title": "Chartered Organization Representative",
+    "section": "",
+    "text": "The Chartered Organization Representative (COR) is the vital link between a Scouting unit and its sponsoring organization (e.g., church, school, or community group).",
     "crumbs": [
       "Position Specific Training",
       "Chartered Organization Representative"
@@ -72,22 +83,11 @@
     ]
   },
   {
-    "objectID": "byposition/charteredorgrep.html#do-i-need-to-be-registered",
-    "href": "byposition/charteredorgrep.html#do-i-need-to-be-registered",
+    "objectID": "byposition/charteredorgrep.html#how-do-i-get-involved",
+    "href": "byposition/charteredorgrep.html#how-do-i-get-involved",
     "title": "Chartered Organization Representative",
-    "section": "Do I need to be registered?",
-    "text": "Do I need to be registered?\nYes!",
-    "crumbs": [
-      "Position Specific Training",
-      "Chartered Organization Representative"
-    ]
-  },
-  {
-    "objectID": "byposition/charteredorgrep.html#do-i-need-to-be-trained",
-    "href": "byposition/charteredorgrep.html#do-i-need-to-be-trained",
-    "title": "Chartered Organization Representative",
-    "section": "Do I need to be trained?",
-    "text": "Do I need to be trained?\nYes!\nThe online training module take ~45 minutes.\nClick HERE to take Chartered Organization Representative Training\n\n\n\n\n\n\nNote\n\n\n\nIf you do not already have a my.scouting account, you will be able to create one.\n\n\nThis training focuses on the following topics:\n\nWhat is a Charter?\nScouting Units\nThe COR Position\nStandards and Volunteers\n\nScouting America has compiled more information in the Chartered Organization Rpresentative Guidebook",
+    "section": "How do I get involved?",
+    "text": "How do I get involved?\n\nRegister\nTalk with the Scoutmaster/Cubmaster or Committee Chair of the Scouting Unit at your sponsoring organization, or reach out to your local council office.\n\n\nGet Trained\nThere is a single online training module that takes ~45 minutes that gives you the information needed to work well with the scouting unit.\nClick HERE to take Chartered Organization Representative Training\n\n\n\n\n\n\nNote\n\n\n\nIf you do not already have a my.scouting account, you will be able to create one.\n\n\nThis training focuses on the following topics:\n\nWhat is a Charter?\nScouting Units\nThe COR Position\nStandards and Volunteers\n\nScouting America has compiled more information in the Chartered Organization Rpresentative Guidebook",
     "crumbs": [
       "Position Specific Training",
       "Chartered Organization Representative"
@@ -274,29 +274,18 @@
     "href": "byposition/meritbadgecounselor.html",
     "title": "Merit Badge Counselor",
     "section": "",
-    "text": "Do I need Training?\nA merit badge counselor is a responsible adult with knowledge and enthusiasm about a career, hobby or other subject who is willing to share that knowledge and enthusiasm with Scouts.\nYes. Merit Badge Counselors are required to take:",
+    "text": "How do I get involved?\nA merit badge counselor is a responsible adult with knowledge and enthusiasm about a career, hobby or other subject who is willing to share that knowledge and enthusiasm with Scouts.\nTalk with the Scoutmaster/Cubmaster or Committee Chair of the Scouting Unit at your sponsoring organization, or reach out to your local council office.",
     "crumbs": [
       "Position Specific Training",
       "Merit Badge Counselor"
     ]
   },
   {
-    "objectID": "byposition/meritbadgecounselor.html#do-i-need-training",
-    "href": "byposition/meritbadgecounselor.html#do-i-need-training",
+    "objectID": "byposition/meritbadgecounselor.html#how-do-i-get-involved",
+    "href": "byposition/meritbadgecounselor.html#how-do-i-get-involved",
     "title": "Merit Badge Counselor",
     "section": "",
-    "text": "Safeguarding Youth Training\nMerit Badge Counselor Training",
-    "crumbs": [
-      "Position Specific Training",
-      "Merit Badge Counselor"
-    ]
-  },
-  {
-    "objectID": "byposition/meritbadgecounselor.html#register-as-a-merit-badge-counselor",
-    "href": "byposition/meritbadgecounselor.html#register-as-a-merit-badge-counselor",
-    "title": "Merit Badge Counselor",
-    "section": "Register as a Merit Badge Counselor",
-    "text": "Register as a Merit Badge Counselor\nContact your local council office to register as a merit badge counselor.\nFind out more about Merit Badge Counselors at Scouting America’s National Website.",
+    "text": "Get Trained\nYes. Merit Badge Counselors are required to take:\n\nSafeguarding Youth Training\nMerit Badge Counselor Training\n\n\n\nRegister\nContact your local council office to register as a merit badge counselor.\nFind out more about Merit Badge Counselors at Scouting America’s National Website.",
     "crumbs": [
       "Position Specific Training",
       "Merit Badge Counselor"
@@ -307,7 +296,7 @@
     "href": "requirements/haz-weather.html",
     "title": "Hazardous Weather",
     "section": "",
-    "text": "What: Hazardous Weather Training\nWhen: Every 2 years\nWho: required training for some positions\nWhere: Click here to take Hazardous Weather\nAlternatively navigate to training by:\n\nLog in to: https://my.scouting.org/\nClick on My Training\nClick on ScoutsBSA\nClick on Catalog\nClick on Programs\nType ‘hazardous weather’ in the search bar",
+    "text": "What: Hazardous Weather Training\nWhen: Every 2 years\nWho: required training for some positions\nWhere: Click here to take Hazardous Weather - Available Online ONLY\nAlternatively navigate to training by:\n\nLog in to: https://my.scouting.org/\nClick on My Training\nClick on ScoutsBSA\nClick on Catalog\nClick on Programs\nType ‘hazardous weather’ in the search bar",
     "crumbs": [
       "Training that Expires",
       "Hazardous Weather"
@@ -318,7 +307,7 @@
     "href": "requirements/syt.html",
     "title": "Safeguarding Youth Training",
     "section": "",
-    "text": "When: Required Every 1 year\nWho: all BSA new and registered volunteers aged 18+\nWhere: Click here to take Safeguarding Youth Training\nAlternatively navigate to training by:\n\nLog in to: https://my.scouting.org/\nClick on My Training\nClick on ScoutsBSA\nClick on Catalog\nClick on Programs\nType ‘safeguarding youth’ in the search bar",
+    "text": "When: Required Every 1 year\nWho: ALL Scouting America new and registered volunteers aged 18+\nWhere: Click here to take Safeguarding Youth Training - Available Online ONLY\nAlternatively navigate to training by:\n\nLog in to: https://my.scouting.org/\nClick on My Training\nClick on ScoutsBSA\nClick on Catalog\nClick on Programs\nType ‘safeguarding youth’ in the search bar",
     "crumbs": [
       "Training that Expires",
       "Safeguarding Youth Training"
