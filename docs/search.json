@@ -339,7 +339,7 @@
     "href": "training-express/archived.html#november-2025",
     "title": "Archived JVC Training Express",
     "section": "November 2025",
-    "text": "November 2025\n\n\n#",
+    "text": "November 2025",
     "crumbs": [
       "Current JVC Training Express",
       "Archived JVC Training Express"
@@ -354,6 +354,39 @@
     "crumbs": [
       "Current JVC Training Express",
       "Archived JVC Training Express"
+    ]
+  },
+  {
+    "objectID": "regularly-expires/wfa.html",
+    "href": "regularly-expires/wfa.html",
+    "title": "1  wfa",
+    "section": "",
+    "text": "Wilderness First Aid",
+    "crumbs": [
+      "requirements/regularly-expires.qmd",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>wfa</span>"
+    ]
+  },
+  {
+    "objectID": "regularly-expires/haz-weather.html",
+    "href": "regularly-expires/haz-weather.html",
+    "title": "Hazardous Weather",
+    "section": "",
+    "text": "What: Hazardous Weather Training\nWhen: Every 2 years\nWho: required training for some positions\nWhere: Click here to take Hazardous Weather - Available Online ONLY\nAlternatively navigate to training by:\n\nLog in to: https://my.scouting.org/\nClick on My Training\nClick on ScoutsBSA\nClick on Catalog\nClick on Programs\nType ‘hazardous weather’ in the search bar",
+    "crumbs": [
+      "requirements/regularly-expires.qmd",
+      "Hazardous Weather"
+    ]
+  },
+  {
+    "objectID": "regularly-expires/syt.html",
+    "href": "regularly-expires/syt.html",
+    "title": "Safeguarding Youth Training",
+    "section": "",
+    "text": "When: Required Every 1 year\nWho: ALL Scouting America new and registered volunteers aged 18+\nWhere: Click here to take Safeguarding Youth Training - Available Online ONLY\nAlternatively navigate to training by:\n\nLog in to: https://my.scouting.org/\nClick on My Training\nClick on ScoutsBSA\nClick on Catalog\nClick on Programs\nType ‘safeguarding youth’ in the search bar",
+    "crumbs": [
+      "requirements/regularly-expires.qmd",
+      "Safeguarding Youth Training"
     ]
   }
 ]

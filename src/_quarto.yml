@@ -27,10 +27,11 @@ book:
         - byposition/troopreqsbyposition.qmd
         - byposition/venturereqsbyposition.qmd
         - byposition/meritbadgecounselor.qmd
-    - part: requirements/requirements.qmd
+    - part: requirements/regularly-expires.qmd
       chapters:
-        - requirements/haz-weather.qmd
-        - requirements/syt.qmd
+        - regularly-expires/haz-weather.qmd
+        - regularly-expires/syt.qmd
+        - regularly-expires/wfa.qmd
     - part: training-express/current.qmd
       chapters:
         - training-express/archived.qmd
