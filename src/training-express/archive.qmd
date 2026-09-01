@@ -1,5 +1,12 @@
 # Archived JVC Training Express {-}
 
+## January 2026 
+::: {layout-ncol=2}
+![](../include/img/202601-training-newsletter-pg1.png)
+
+![](../include/img/202601-training-newsletter-pg2.png)
+:::
+
 ## November 2025 
 ![](../include/img/202511-save-the-date.png){width=30%}
 

@@ -1,8 +1,6 @@
 # Current JVC Training Express {-}
 
+## September 2026
+<iframe src="../include/pdf/202609-training-newsletter.pdf" width="100%" height="1000px"></iframe>
 
-::: {layout-ncol=2}
-![](../include/img/202601-training-newsletter-pg1.png)
 
-![](../include/img/202601-training-newsletter-pg2.png)
-:::
