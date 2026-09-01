@@ -1,0 +1,18 @@
+# Archived JVC Training Express {-}
+
+## January 2026 
+
+<iframe src="../include/pdf/202601-training-newsletter.pdf" width="100%" height="1000px"></iframe>
+
+## November 2025 
+<iframe src="../include/pdf/202511-save-the-date.pdf" width="100%" height="1000px"></iframe>
+#![](../include/img/202511-save-the-date.png){width=30%}
+
+## March 2025
+
+::: {layout-ncol=2}
+![](../include/img/202503-jvc-training-express-pg1.png)
+
+![](../include/img/202503-jvc-training-express-pg2.png)
+:::
+
