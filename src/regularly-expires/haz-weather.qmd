@@ -11,9 +11,9 @@ Weather](https://training.scouting.org/courses/SCO_800) - Available Online ONLY
 
 Alternatively navigate to training by:  
 
-- Log in to: https://my.scouting.org/
-- Click on My Training
-- Click on ScoutsBSA
-- Click on Catalog
-- Click on Programs
-- Type  'hazardous weather' in the search bar
+- Log in to: [https://my.scouting.org/](https://my.scouting.org/)
+- Click on `My Training`
+- Click on `ScoutsBSA`
+- Click on `Catalog`
+- Click on `Programs`
+- Type `hazardous weather` in the search bar

@@ -292,25 +292,36 @@
     ]
   },
   {
-    "objectID": "requirements/haz-weather.html",
-    "href": "requirements/haz-weather.html",
+    "objectID": "regularly-expires/haz-weather.html",
+    "href": "regularly-expires/haz-weather.html",
     "title": "Hazardous Weather",
     "section": "",
-    "text": "What: Hazardous Weather Training\nWhen: Every 2 years\nWho: required training for some positions\nWhere: Click here to take Hazardous Weather - Available Online ONLY\nAlternatively navigate to training by:\n\nLog in to: https://my.scouting.org/\nClick on My Training\nClick on ScoutsBSA\nClick on Catalog\nClick on Programs\nType ‘hazardous weather’ in the search bar",
+    "text": "What: Hazardous Weather Training\nWhen: Every 2 years\nWho: required training for some positions\nWhere: Click here to take Hazardous Weather - Available Online ONLY\nAlternatively navigate to training by:\n\nLog in to: https://my.scouting.org/\nClick on My Training\nClick on ScoutsBSA\nClick on Catalog\nClick on Programs\nType hazardous weather in the search bar",
     "crumbs": [
-      "Training that Expires",
+      "requirements/regularly-expires.qmd",
       "Hazardous Weather"
     ]
   },
   {
-    "objectID": "requirements/syt.html",
-    "href": "requirements/syt.html",
+    "objectID": "regularly-expires/syt.html",
+    "href": "regularly-expires/syt.html",
     "title": "Safeguarding Youth Training",
     "section": "",
-    "text": "When: Required Every 1 year\nWho: ALL Scouting America new and registered volunteers aged 18+\nWhere: Click here to take Safeguarding Youth Training - Available Online ONLY\nAlternatively navigate to training by:\n\nLog in to: https://my.scouting.org/\nClick on My Training\nClick on ScoutsBSA\nClick on Catalog\nClick on Programs\nType ‘safeguarding youth’ in the search bar",
+    "text": "When: Required Every 1 year\nWho: ALL Scouting America new and registered volunteers aged 18+\nWhere: Click here to take Safeguarding Youth Training - Available Online ONLY\nAlternatively navigate to training by:\n\nLog in to: https://my.scouting.org/\nClick on My Training\nClick on ScoutsBSA\nClick on Catalog\nClick on Programs\nType safeguarding youth in the search bar",
     "crumbs": [
-      "Training that Expires",
+      "requirements/regularly-expires.qmd",
       "Safeguarding Youth Training"
+    ]
+  },
+  {
+    "objectID": "regularly-expires/wfa.html",
+    "href": "regularly-expires/wfa.html",
+    "title": "Wilderness First Aid",
+    "section": "",
+    "text": "Who:Adult Leaders, Youth 14+\nWhat: Learn how to safely navigate and respond to medical emergencies in a remote environment (&gt; 1 hour from advanced care)\nWhen: This course is typically run every May in Juniata Valley Council\nWhere: In-Person ONLY\nWhy: required by many high adventure camps; recommended for remote treks.\nPre-requisite: CPR/AED",
+    "crumbs": [
+      "requirements/regularly-expires.qmd",
+      "Wilderness First Aid"
     ]
   },
   {
@@ -354,39 +365,6 @@
     "crumbs": [
       "Current JVC Training Express",
       "Archived JVC Training Express"
-    ]
-  },
-  {
-    "objectID": "regularly-expires/wfa.html",
-    "href": "regularly-expires/wfa.html",
-    "title": "1  wfa",
-    "section": "",
-    "text": "Wilderness First Aid",
-    "crumbs": [
-      "requirements/regularly-expires.qmd",
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>wfa</span>"
-    ]
-  },
-  {
-    "objectID": "regularly-expires/haz-weather.html",
-    "href": "regularly-expires/haz-weather.html",
-    "title": "Hazardous Weather",
-    "section": "",
-    "text": "What: Hazardous Weather Training\nWhen: Every 2 years\nWho: required training for some positions\nWhere: Click here to take Hazardous Weather - Available Online ONLY\nAlternatively navigate to training by:\n\nLog in to: https://my.scouting.org/\nClick on My Training\nClick on ScoutsBSA\nClick on Catalog\nClick on Programs\nType ‘hazardous weather’ in the search bar",
-    "crumbs": [
-      "requirements/regularly-expires.qmd",
-      "Hazardous Weather"
-    ]
-  },
-  {
-    "objectID": "regularly-expires/syt.html",
-    "href": "regularly-expires/syt.html",
-    "title": "Safeguarding Youth Training",
-    "section": "",
-    "text": "When: Required Every 1 year\nWho: ALL Scouting America new and registered volunteers aged 18+\nWhere: Click here to take Safeguarding Youth Training - Available Online ONLY\nAlternatively navigate to training by:\n\nLog in to: https://my.scouting.org/\nClick on My Training\nClick on ScoutsBSA\nClick on Catalog\nClick on Programs\nType ‘safeguarding youth’ in the search bar",
-    "crumbs": [
-      "requirements/regularly-expires.qmd",
-      "Safeguarding Youth Training"
     ]
   }
 ]
