@@ -27,7 +27,7 @@ book:
         - byposition/troopreqsbyposition.qmd
         - byposition/venturereqsbyposition.qmd
         - byposition/meritbadgecounselor.qmd
-    - part: requirements/regularly-expires.qmd
+    - part: regularly-expires/regularly-expires.qmd
       chapters:
         - regularly-expires/haz-weather.qmd
         - regularly-expires/syt.qmd
