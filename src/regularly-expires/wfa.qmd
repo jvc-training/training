@@ -1,10 +1,12 @@
 # Wilderness First Aid {-}
 
+Wilderness First Aid (WFA) is a generic term that refers to the skills needed when advanced medical care is not readily available. WFA training courses focus on the prevention of incidents and the assessment and treatment of an ill or injured person in a remote environment where definitive care by a physician and/or rapid transport is an hour or more away.
+
 Who:Adult Leaders, Youth 14+
 
 What: Learn how to safely navigate and respond to medical emergencies in a remote environment (> 1 hour from advanced care)
 
-When: This course is typically run every May in Juniata Valley Council
+When: This course is typically run every May in [Juniata Valley Council](https://www.jvcscouting.org/)
 
 Where: In-Person ONLY
 
@@ -12,4 +14,4 @@ Why: required by many high adventure camps; recommended for remote treks.
 
 Pre-requisite: CPR/AED
 
-[Wilderness First Aid @ Scouting America National Site](https://www.scouting.org/health-and-safety/wilderness-fa/)
+[Scouting America Wilderness First Aid Site](https://www.scouting.org/health-and-safety/wilderness-fa/)

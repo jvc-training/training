@@ -2,20 +2,20 @@
 
 Training does not last forever. 
 
-Scouting America to keep safety standards current and ensure all adult volunteers have up-to-date knowledge on protecting youth.
+Scouting America training expires to keep safety standards current and ensure all adult volunteers have up-to-date knowledge on protecting youth.
 
 Training that expires regularly includes:
 
 Online Training
 
-- Safeguarding Youth Training - Yearly
-- Hazardous Weather - 2 Years
-- Safety Afloat - 2 Years
+- [Safeguarding Youth Training](syt.qmd) - Yearly
+- [Hazardous Weather](haz-weather.qmd) - 2 Years
+- [Safety Afloat](safety-afloat.qmd) - 2 Years
 - Safe Swim Defense - 2 Years
 
 In-Person Only Training
 
-- Wilderness First Aid - 2 Years
+- [Wilderness First Aid](wfa.qmd) - 2 Years
 - Aquatics Supervision: Swimming and Water Rescue - X Years
 - Aquatics Supervision: Paddle Craft Safety - X Years
 
