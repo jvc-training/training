@@ -1,8 +1,10 @@
 # Cub Scouts {-}
 
-View [training requirements](https://www.scouting.org/wp-content/uploads/2025/10/Position-Trained-Requirements-Oct2025.pdf) for your specific position.
+View [training requirements (external link)](https://www.scouting.org/wp-content/uploads/2025/10/Position-Trained-Requirements-Oct2025.pdf) for your specific position.
 
-Click on the links below to go to the training on my.scouting.org then you will be asked to log in.
+First, go to another Browser tab, log on to [https://my.scouting.org/](https://my.scouting.org/)
+
+Then come back here and click on the links below to directly go to that training module.
 
 ## Cubmaster and Assistant Cubmaster
 
