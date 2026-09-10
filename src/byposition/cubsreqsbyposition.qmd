@@ -1,10 +1,26 @@
 # Cub Scouts {-}
 
+:::: {.columns}
+
+::: {.column width="25%"}
+![](../include/CubScoutsLogo-FullColor-CSBC.jpg){fig-align="left" width=60%}
+:::
+
+::: {.column width="75%"}
+[Cub Scouts](https://www.scouting.org/programs/cub-scouts/) is a youth program for boys and girls in kindergarten through fifth grade (ages 5 to 10) focused on character development, citizenship, leadership, and outdoor fun.
+
+The Cub Scout program is run by volunteers to guide youth safely, plan activities, and deliver the program. There are many different volunteer positions, which require different training to make it easier to be effective in your chosen position.
+:::
+
+::::
+
 View [training requirements (external link)](https://www.scouting.org/wp-content/uploads/2025/10/Position-Trained-Requirements-Oct2025.pdf) for your specific position.
 
-First, go to another Browser tab, log on to [https://my.scouting.org/](https://my.scouting.org/)
+## How do I access training?
 
-Then come back here and click on the links below to directly go to that training module.
+- First, go to another Browser tab, log on to [https://my.scouting.org/](https://my.scouting.org/)
+  - If you do not yet have an account, choose the `Create Account` button on the left side of the screen, or go d
+- Then come back here and click on the links below to directly go to that training module.
 
 ## Cubmaster and Assistant Cubmaster
 
