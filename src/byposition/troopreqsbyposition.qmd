@@ -1,8 +1,27 @@
 # Scouts BSA {-}
 
-View [training requirements](https://www.scouting.org/wp-content/uploads/2025/10/Position-Trained-Requirements-Oct2025.pdf) for your specific position.
+## What is it? {-}
+:::: {.columns}
 
-Click on the links below to go to the training on my.scouting.org then you will be asked to log in.
+::: {.column width="25%"}
+<!-- ![](../include/img/xxx){fig-align="left" width=60%} -->
+:::
+
+::: {.column width="75%"}
+[ScoutsBSA](https://www.scouting.org/programs/scouts-bsa/) is a youth program in grades 6 through 12, or ages 11 to 17 (both boys and girls in separate or co-ed troops depending on the structure) focused on character development, citizenship, leadership, and mental and physical fitness.
+
+The ScoutsBSA program is run by adult volunteers to serve as mentors, teachers, and guides who support youth-led troop activities and community programs. There are many different volunteer positions, which require different training to make it easier to be effective in your chosen position.
+:::
+
+::::
+
+View [training requirements (external link)](https://www.scouting.org/wp-content/uploads/2025/10/Position-Trained-Requirements-Oct2025.pdf) for all positions.
+
+## How do I access training?
+
+- First, go to another Browser tab, log on to [https://my.scouting.org/](https://my.scouting.org/)
+  - If you do not yet have an account, choose the `Create Account` button on the left side of the screen.
+- Then come back here and click on the links below to directly go to that training module.
 
 ## Scoutmaster and Assistant Scoutmaster
 
@@ -20,6 +39,10 @@ Click on the links below to go to the training on my.scouting.org then you will 
 ## Troop Committee Member
 
   - [Troop Committee - Position Specific Training](https://training.scouting.org/learning-plans/1195)
+
+## New Member Coordinator
+
+  - [New Member Coordinator Training](https://training.scouting.org/learning-plans/1128)
   
 ## Merit Badge Counselor
 
