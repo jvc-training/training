@@ -98,7 +98,7 @@
     "href": "byposition/cubsreqsbyposition.html",
     "title": "Cub Scouts",
     "section": "",
-    "text": "How do I access training?\nView training requirements (external link) for your specific position.",
+    "text": "What is it?\nView training requirements (external link) for all positions.",
     "crumbs": [
       "Position Specific Training",
       "Cub Scouts"
@@ -108,8 +108,8 @@
     "objectID": "byposition/cubsreqsbyposition.html#how-do-i-access-training",
     "href": "byposition/cubsreqsbyposition.html#how-do-i-access-training",
     "title": "Cub Scouts",
-    "section": "",
-    "text": "First, go to another Browser tab, log on to https://my.scouting.org/\n\nIf you do not yet have an account, choose the Create Account button on the left side of the screen, or go d\n\nThen come back here and click on the links below to directly go to that training module.",
+    "section": "How do I access training?",
+    "text": "How do I access training?\n\nFirst, go to another Browser tab, log on to https://my.scouting.org/\n\nIf you do not yet have an account, choose the Create Account button on the left side of the screen, or go d\n\nThen come back here and click on the links below to directly go to that training module.",
     "crumbs": [
       "Position Specific Training",
       "Cub Scouts"
@@ -386,6 +386,17 @@
     "crumbs": [
       "Current JVC Training Express",
       "Archived JVC Training Express"
+    ]
+  },
+  {
+    "objectID": "byposition/cubsreqsbyposition.html#what-is-it",
+    "href": "byposition/cubsreqsbyposition.html#what-is-it",
+    "title": "Cub Scouts",
+    "section": "",
+    "text": "Cub Scouts is a youth program for boys and girls in kindergarten through fifth grade (ages 5 to 10) focused on character development, citizenship, leadership, and outdoor fun.\nThe Cub Scout program is run by volunteers to guide youth safely, plan activities, and deliver the program. There are many different volunteer positions, which require different training to make it easier to be effective in your chosen position.",
+    "crumbs": [
+      "Position Specific Training",
+      "Cub Scouts"
     ]
   }
 ]

@@ -1,9 +1,10 @@
 # Cub Scouts {-}
 
+## What is it? {-}
 :::: {.columns}
 
 ::: {.column width="25%"}
-![](../include/CubScoutsLogo-FullColor-CSBC.jpg){fig-align="left" width=60%}
+![](../include/img/CubScoutsLogo-FullColor-CSBC.jpg){fig-align="left" width=60%}
 :::
 
 ::: {.column width="75%"}
@@ -14,7 +15,7 @@ The Cub Scout program is run by volunteers to guide youth safely, plan activitie
 
 ::::
 
-View [training requirements (external link)](https://www.scouting.org/wp-content/uploads/2025/10/Position-Trained-Requirements-Oct2025.pdf) for your specific position.
+View [training requirements (external link)](https://www.scouting.org/wp-content/uploads/2025/10/Position-Trained-Requirements-Oct2025.pdf) for all positions.
 
 ## How do I access training?
 
